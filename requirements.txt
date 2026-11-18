@@ -1,0 +1,8 @@
+ccxt>=4.2.0               # API crypto
+yfinance>=0.2.30          # API actions
+pandas>=2.2.0             # Manipulation données
+pandas-ta>=0.3.14b        # Indicateurs techniques
+langchain>=0.1.9          # Framework IA
+langchain-ollama>=0.0.1   # Intégration Ollama
+requests>=2.31.0          # Appels HTTP (Telegram)
+python-dotenv>=1.0.1      # Gestion variables d'environnement
